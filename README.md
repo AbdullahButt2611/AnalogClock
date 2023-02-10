@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "#" width="300">
+  <img src = "logo.png" width="150">
 </p>
 
 <h1 align="center">
@@ -41,6 +41,7 @@ Follwing resources have been used in maintaining this project:
 - [Box Icons](https://boxicons.com/) is used to import the icons into the project
 - [Google Fonts](https://fonts.google.com/) is used to import the font family of `Poppins`
 - [W3 Schools](https://www.w3schools.com/colors/colors_hsl.asp) to find the hSL value for the theme customization
+- [Remove BG](https://www.remove.bg/upload) to remove the background of the image to make it a logo. 
 
 
 <br><br>
@@ -50,7 +51,7 @@ Follwing resources have been used in maintaining this project:
 ### Demo
 <p align="justify">
   The Demo of this working project can be found on <br>
-  <a href="></a>
+  <a href="https://rebrand.ly/AnalogClock_MABCORP">https://rebrand.ly/AnalogClock_MABCORP</a>
 </p>
 
 
@@ -74,8 +75,9 @@ You can exclusively watch the video on this project from the making to deploying
 
 
 
-### GUI
-![GUI for this Project](path)
+### Graphical User Interface
+![GUI for this Project](demo1.png)
+![GUI for this Project](demo2.png)
 
 
 <br><br>
